@@ -31,33 +31,6 @@ FilterPy — Kalman Filtering
 
 NumPy — Data Manipulation
 
-📥 Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/YOUR-USERNAME/gesture-control-python.git
-cd gesture-control-python
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-⚙️ How to Run
-bash
-Copy
-Edit
-python optimized_main_with_kalman.py
-Keep your webcam ON.
-
-Move your hand inside the frame.
-
-Your index finger controls the mouse cursor! 🖱️✨
-
-Perform different gestures to trigger actions!
-
 📋 Folder Structure
 bash
 Copy
